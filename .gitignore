@@ -5,3 +5,4 @@ replit.nix
 .breakpoints
 poetry.lock
 pyproject.toml
+main.py
